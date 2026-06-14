@@ -86,18 +86,18 @@
 
 ```
 ┌─────────────────────────────────────────┐
-│         表现层 (Presentation)             │
-│    GamePanel — JFrame 窗口绘制            │
+│         表现层 (Presentation)            │
+│    GamePanel — JFrame 窗口绘制           │
 ├─────────────────────────────────────────┤
-│         控制层 (Controller)               │
+│         控制层 (Controller)              │
 │  GameEngine / InputControl / EventControl│
 ├─────────────────────────────────────────┤
-│         实体层 (Entity)                   │
-│   Plane / Bullet / Skill / Buff          │
+│         实体层 (Entity)                  │
+│   Plane / Bullet / Skill / Buff         │
 ├─────────────────────────────────────────┤
-│         接口层 (Interface)                │
+│         接口层 (Interface)               │
 │ PlayerActionListener / EnemyActionListener│
-│          GameEventListener               │
+│          GameEventListener              │
 └─────────────────────────────────────────┘
 ```
 
