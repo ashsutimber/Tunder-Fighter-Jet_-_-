@@ -67,9 +67,12 @@
 ## 游戏截图
 
 
-| 飞机选择 | 游戏画面 | Boss 战 |
-|----------|----------|---------|
-| ![select](src/image/playerJet4.png) | ![gameplay](src/image2/yunxing1.png) | ![boss](src/image/BossJet1.png) |
+| 玩家飞机 | 敌方飞机 | Boss 战 |
+|----------|---------|
+| ![select](src/image/playerJet1.png) | ![boss](src/image/normalAnemyJet1.png) | ![boss](src/image/BossJet1.png) |
+| ![select](src/image/playerJet2.png) | ![boss](src/image/normalAnemyJet2.png) | ![boss](src/image/BossJet2.png) |
+| ![select](src/image/playerJet3.png) | ![boss](src/image/normalAnemyJet3.png) | --------- |
+| ![select](src/image/playerJet4.png) | ![boss](src/image/normalAnemyJet4.png) | --------- |
 
 ---
 
