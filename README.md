@@ -1,7 +1,7 @@
 # ⚡ 雷霆战机 (Thunder Fighter Jet)
 
 <p align="center">
-  <img src="src/image/playerJet1.png" alt="Thunder Fighter Jet" width="200"/>
+  <img src="src/image/playerJet4.png" alt="Thunder Fighter Jet" width="200"/>
 </p>
 
 <p align="center">
@@ -65,8 +65,9 @@
 ---
 
 ## 游戏截图
+<img src="src/image2/yunxing1.png" alt="Thunder Fighter Jet" width="400"/>
 
-
+<img src="src/image2/yunxing2.png" alt="Thunder Fighter Jet" width="400"/>
 | 玩家飞机 | 敌方飞机 | Boss 战 |
 |----------|---------|---------|
 | ![select](src/image/playerJet1.png) | ![boss](src/image/normalAnemyJet1.png) | ![boss](src/image/BossJet1.png) |
