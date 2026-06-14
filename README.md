@@ -69,6 +69,8 @@
 <img src="src/image2/yunxing1.png" alt="Thunder Fighter Jet" width="400"/>
 <img src="src/image2/yunxing2.png" alt="Thunder Fighter Jet" width="400"/>
 </p>
+
+## 图片资源
 | 玩家飞机 | 敌方飞机 | Boss 战 |
 |----------|---------|---------|
 | ![select](src/image/playerJet1.png) | ![boss](src/image/normalAnemyJet1.png) | ![boss](src/image/BossJet1.png) |
