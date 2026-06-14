@@ -68,7 +68,7 @@
 
 
 | 玩家飞机 | 敌方飞机 | Boss 战 |
-|----------|---------|
+|----------|---------|---------|
 | ![select](src/image/playerJet1.png) | ![boss](src/image/normalAnemyJet1.png) | ![boss](src/image/BossJet1.png) |
 | ![select](src/image/playerJet2.png) | ![boss](src/image/normalAnemyJet2.png) | ![boss](src/image/BossJet2.png) |
 | ![select](src/image/playerJet3.png) | ![boss](src/image/normalAnemyJet3.png) | --------- |
